@@ -1,7 +1,7 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work, Yes very true
+This repository is for showing how Git and GitHub work, Yes very true. Yes BRO!!
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos, Yes true BRO!!!!
